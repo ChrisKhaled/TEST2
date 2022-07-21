@@ -1,0 +1,5 @@
+ls = affiche liste des dossiers
+touch = création de fichier
+clear = efface le texte ecrit dans le terminal
+cd .. = revenir au dossier precedent
+git config --global user.name
